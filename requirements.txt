@@ -1,0 +1,3 @@
+aiohttp==3.8.5
+gradio==3.42.0
+fake-useragent==1.1.0
